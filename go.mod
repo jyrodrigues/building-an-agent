@@ -1,0 +1,7 @@
+module agent
+
+go 1.24.3
+
+require github.com/boundaryml/baml v0.218.0
+
+require google.golang.org/protobuf v1.36.6 // indirect
